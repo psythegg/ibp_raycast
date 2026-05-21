@@ -3,10 +3,10 @@
 A Raycast extension for booking the IBP Lounge (Room 112, Education Building) without opening a browser.
 
 ## Book Lounge
-![Book Lounge](../book_lounge.png)
+![Book Lounge](book_lounge.png)
 
 ## View Bookings
-![View Bookings](../view_bookings.png)
+![View Bookings](view_bookings.png)
 
 ## Features
 
